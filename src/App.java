@@ -12,5 +12,8 @@ public class App {
         Calculadora calc = new Calculadora();
 
         calc.sumar(4, 2);
+        calc.restar(5, 2);
+        calc.dividir(20, 5);
+        calc.dividir(20, 0);
     }
 }
