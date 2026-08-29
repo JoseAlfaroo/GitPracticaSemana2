@@ -15,5 +15,6 @@ public class App {
         calc.restar(5, 2);
         calc.dividir(20, 5);
         calc.dividir(20, 0);
+        calc.multiplicar(4, 2);
     }
 }
