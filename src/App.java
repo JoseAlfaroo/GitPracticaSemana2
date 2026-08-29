@@ -12,5 +12,6 @@ public class App {
         Calculadora calc = new Calculadora();
 
         calc.sumar(4, 2);
+        calc.multiplicar(4, 2);
     }
 }
