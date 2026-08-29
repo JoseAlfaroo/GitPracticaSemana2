@@ -1,0 +1,17 @@
+.vscode/
+
+# Ignore the bin directory at any level
+bin/
+
+# Ignore Java compiled class files
+*.class
+
+# Ignore packaged Java archives
+*.jar
+*.war
+*.ear
+
+# Common build tool directories (Maven / Gradle)
+target/
+build/
+.gradle/
